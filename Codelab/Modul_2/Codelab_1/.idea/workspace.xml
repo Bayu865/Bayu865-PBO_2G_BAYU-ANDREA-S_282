@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aede4b5c-9501-4e98-91a2-77c290296ffd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/MODUL 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MODUL 1/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codelab_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/Codelab_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/Modul_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modul_3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
